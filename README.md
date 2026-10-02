@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1 align="center">hey, i'm gui.</h1>
 
-<!--
-**isquil/isquil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  backend stuff, weird ideas and too many side projects.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  currently messing around with nestjs and typescript.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://img.shields.io/badge/NestJS-000000?style=for-the-badge&logo=nestjs&logoColor=E0234E" alt="NestJS">
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript">
+</p>
